@@ -1,2 +1,2 @@
-# Repositorio Curso em Video
- Repositorio Curso em Video
+# Repositório Curso em Video
+ Repositório Curso em Video
